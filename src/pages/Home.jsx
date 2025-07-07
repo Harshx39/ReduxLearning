@@ -12,9 +12,9 @@ const navigate = useNavigate();
     { id: 1, name: "Apple iPhone 15", price: 999, image: "iphone15.jpg" },
     { id: 2, name: "Samsung Galaxy S24", price: 899, image: "samsungs24.jpeg" },
     { id: 3, name: "Google Pixel 9", price: 799, image: "pixel9.jpeg" },
-    { id: 4, name: "Apple iPhone 15", price: 999, image: "iphone15.jpg" },
-    { id: 5, name: "Samsung Galaxy S24", price: 899, image: "samsungs24.jpeg" },
-    { id: 6, name: "Google Pixel 9", price: 799, image: "pixel9.jpeg" },
+    { id: 4, name: "One Plus Nord CE2", price: 699, image: "nordce2.jpeg" },
+    { id: 5, name: "Nothing 2a ", price: 599, image: "2a.jpeg" },
+    { id: 6, name: "Redmi Note 13 Pro ", price: 499, image: "13pro.jpeg" },
   ];
 
   return (
