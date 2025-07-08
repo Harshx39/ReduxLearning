@@ -1,4 +1,3 @@
-// components/Cart.jsx
 import { useSelector, useDispatch } from 'react-redux';
 import { removeFromCart } from '../Store';
 
